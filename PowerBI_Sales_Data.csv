@@ -1,0 +1,301 @@
+OrderID,OrderDate,Region,Category,Product,Salesperson,Quantity,UnitPrice,Discount,Sales,Cost,Profit
+1033,2024-01-04,North,Office Supplies,Sticky Notes Pack,Karan Verma,9,199,0,1791,855,936
+1151,2024-01-13,West,Clothing,Cotton T-Shirt,Aditya Singh,8,699,0,5592,2560,3032
+1278,2024-01-17,North,Electronics,27-inch Monitor,Karan Verma,1,14999,0,14999,9800,5199
+1112,2024-01-26,East,Electronics,Wireless Mouse,Sneha Iyer,8,799,0,6392,3360,3032
+1004,2024-02-02,South,Electronics,Wireless Mouse,Priya Nair,4,799,0.05,3036.2,1680,1356.2
+1249,2024-02-04,South,Office Supplies,A4 Paper Ream (500),Divya Reddy,12,349,0,4188,2520,1668
+1098,2024-02-09,West,Electronics,Mechanical Keyboard,Aditya Singh,6,2499,0.1,13494.6,8100,5394.6
+1052,2024-03-03,South,Furniture,Standing Desk,Divya Reddy,2,18999,0.05,36098.1,25000,11098.1
+1269,2024-03-03,North,Furniture,Standing Desk,Karan Verma,4,18999,0,75996,50000,25996
+1283,2024-03-03,West,Furniture,Bookshelf,Aditya Singh,7,5499,0,38493,22400,16093
+1186,2024-03-13,East,Office Supplies,Ballpoint Pen Pack,Sneha Iyer,5,149,0.05,707.75,350,357.75
+1176,2024-03-16,North,Office Supplies,A4 Paper Ream (500),Aarav Sharma,3,349,0,1047,630,417
+1239,2024-03-16,South,Furniture,Bookshelf,Divya Reddy,10,5499,0.1,49491.0,32000,17491.0
+1235,2024-03-21,West,Office Supplies,A4 Paper Ream (500),Aditya Singh,10,349,0.05,3315.5,2100,1215.5
+1039,2024-03-28,East,Office Supplies,Sticky Notes Pack,Neha Kapoor,2,199,0,398,190,208
+1250,2024-04-02,North,Clothing,Denim Jacket,Karan Verma,6,2999,0.15,15294.9,9900,5394.9
+1256,2024-04-02,West,Office Supplies,Stapler,Aditya Singh,1,249,0.1,224.1,130,94.1
+1056,2024-04-05,East,Clothing,Denim Jacket,Sneha Iyer,3,2999,0.15,7647.45,4950,2697.45
+1163,2024-04-05,East,Electronics,USB-C Hub,Sneha Iyer,7,1899,0.05,12628.35,6650,5978.35
+1209,2024-04-05,South,Electronics,Laptop Stand,Priya Nair,8,1299,0,10392,5200,5192
+1050,2024-04-06,West,Electronics,Mechanical Keyboard,Aditya Singh,6,2499,0.15,12744.9,8100,4644.9
+1263,2024-04-09,West,Electronics,Laptop Stand,Rohan Mehta,7,1299,0.2,7274.4,4550,2724.4
+1268,2024-04-11,South,Office Supplies,Ballpoint Pen Pack,Divya Reddy,9,149,0.1,1206.9,630,576.9
+1169,2024-04-12,East,Clothing,Cotton T-Shirt,Sneha Iyer,5,699,0.05,3320.25,1600,1720.25
+1223,2024-04-12,East,Furniture,Filing Cabinet,Neha Kapoor,1,6299,0,6299,3700,2599
+1009,2024-04-14,West,Electronics,Mechanical Keyboard,Aditya Singh,2,2499,0.1,4498.2,2700,1798.2
+1148,2024-04-14,North,Office Supplies,Sticky Notes Pack,Karan Verma,11,199,0,2189,1045,1144
+1032,2024-04-24,West,Electronics,USB-C Hub,Aditya Singh,3,1899,0.2,4557.6,2850,1707.6
+1175,2024-04-26,South,Clothing,Cotton T-Shirt,Priya Nair,7,699,0.2,3914.4,2240,1674.4
+1300,2024-04-27,North,Office Supplies,Stapler,Karan Verma,10,249,0.05,2365.5,1300,1065.5
+1202,2024-04-28,West,Office Supplies,Stapler,Aditya Singh,9,249,0,2241,1170,1071
+1178,2024-05-01,West,Furniture,Filing Cabinet,Aditya Singh,10,6299,0.05,59840.5,37000,22840.5
+1207,2024-05-04,East,Electronics,Wireless Mouse,Sneha Iyer,12,799,0,9588,5040,4548
+1222,2024-05-09,South,Furniture,Filing Cabinet,Divya Reddy,2,6299,0.2,10078.4,7400,2678.4
+1040,2024-05-11,East,Office Supplies,Ballpoint Pen Pack,Neha Kapoor,9,149,0,1341,630,711
+1275,2024-05-13,North,Furniture,Filing Cabinet,Karan Verma,3,6299,0,18897,11100,7797
+1135,2024-05-18,East,Clothing,Cotton T-Shirt,Neha Kapoor,3,699,0,2097,960,1137
+1026,2024-05-21,East,Furniture,Filing Cabinet,Neha Kapoor,2,6299,0,12598,7400,5198
+1124,2024-05-21,East,Electronics,27-inch Monitor,Sneha Iyer,7,14999,0,104993,68600,36393
+1024,2024-05-22,North,Electronics,Laptop Stand,Karan Verma,12,1299,0.15,13249.8,7800,5449.8
+1082,2024-06-14,East,Office Supplies,Sticky Notes Pack,Neha Kapoor,9,199,0.15,1522.35,855,667.35
+1016,2024-06-15,South,Furniture,Office Chair,Divya Reddy,4,7999,0.1,28796.4,18400,10396.4
+1058,2024-06-17,North,Furniture,Standing Desk,Aarav Sharma,7,18999,0.1,119693.7,87500,32193.7
+1189,2024-06-18,North,Office Supplies,Stapler,Karan Verma,10,249,0.1,2241.0,1300,941.0
+1183,2024-06-26,South,Furniture,Filing Cabinet,Priya Nair,3,6299,0,18897,11100,7797
+1251,2024-06-28,West,Electronics,Laptop Stand,Rohan Mehta,9,1299,0.1,10521.9,5850,4671.9
+1116,2024-06-29,East,Office Supplies,Stapler,Neha Kapoor,1,249,0.05,236.55,130,106.55
+1090,2024-07-02,South,Office Supplies,Sticky Notes Pack,Divya Reddy,7,199,0.05,1323.35,665,658.35
+1054,2024-07-06,East,Electronics,USB-C Hub,Neha Kapoor,4,1899,0,7596,3800,3796
+1204,2024-07-11,South,Furniture,Filing Cabinet,Divya Reddy,10,6299,0.2,50392.0,37000,13392.0
+1053,2024-07-15,East,Electronics,Laptop Stand,Neha Kapoor,3,1299,0.15,3312.45,1950,1362.45
+1168,2024-07-15,East,Electronics,Laptop Stand,Neha Kapoor,5,1299,0.1,5845.5,3250,2595.5
+1241,2024-07-22,East,Furniture,Standing Desk,Neha Kapoor,2,18999,0.05,36098.1,25000,11098.1
+1141,2024-07-23,North,Clothing,Cotton T-Shirt,Aarav Sharma,10,699,0,6990,3200,3790
+1127,2024-07-30,West,Clothing,Cotton T-Shirt,Aditya Singh,7,699,0,4893,2240,2653
+1107,2024-08-03,South,Furniture,Standing Desk,Divya Reddy,8,18999,0.2,121593.6,100000,21593.6
+1022,2024-08-04,South,Clothing,Denim Jacket,Divya Reddy,4,2999,0.2,9596.8,6600,2996.8
+1048,2024-08-07,West,Furniture,Filing Cabinet,Rohan Mehta,12,6299,0.2,60470.4,44400,16070.4
+1267,2024-08-10,East,Furniture,Bookshelf,Neha Kapoor,4,5499,0.1,19796.4,12800,6996.4
+1246,2024-08-12,East,Office Supplies,Ballpoint Pen Pack,Sneha Iyer,10,149,0.1,1341.0,700,641.0
+1299,2024-08-17,South,Clothing,Cotton T-Shirt,Priya Nair,6,699,0.1,3774.6,1920,1854.6
+1044,2024-08-18,South,Electronics,Mechanical Keyboard,Divya Reddy,1,2499,0.05,2374.05,1350,1024.05
+1229,2024-08-20,South,Office Supplies,Sticky Notes Pack,Priya Nair,7,199,0,1393,665,728
+1046,2024-08-22,North,Electronics,Mechanical Keyboard,Aarav Sharma,6,2499,0,14994,8100,6894
+1185,2024-08-25,North,Electronics,USB-C Hub,Karan Verma,12,1899,0.2,18230.4,11400,6830.4
+1123,2024-08-28,South,Electronics,USB-C Hub,Divya Reddy,6,1899,0,11394,5700,5694
+1069,2024-09-01,West,Electronics,USB-C Hub,Aditya Singh,3,1899,0.1,5127.3,2850,2277.3
+1142,2024-09-01,East,Electronics,27-inch Monitor,Neha Kapoor,11,14999,0,164989,107800,57189
+1038,2024-09-02,East,Electronics,Wireless Mouse,Sneha Iyer,10,799,0,7990,4200,3790
+1049,2024-09-05,East,Office Supplies,Stapler,Neha Kapoor,7,249,0.05,1655.85,910,745.85
+1156,2024-09-06,East,Office Supplies,Stapler,Neha Kapoor,10,249,0.15,2116.5,1300,816.5
+1272,2024-09-06,East,Electronics,27-inch Monitor,Sneha Iyer,2,14999,0.05,28498.1,19600,8898.1
+1002,2024-09-07,West,Electronics,Laptop Stand,Rohan Mehta,12,1299,0,15588,7800,7788
+1138,2024-09-15,South,Clothing,Cotton T-Shirt,Priya Nair,8,699,0,5592,2560,3032
+1100,2024-09-17,West,Electronics,Wireless Mouse,Aditya Singh,1,799,0.05,759.05,420,339.05
+1136,2024-09-23,South,Furniture,Standing Desk,Divya Reddy,4,18999,0.2,60796.8,50000,10796.8
+1182,2024-09-27,South,Office Supplies,Ballpoint Pen Pack,Priya Nair,3,149,0.05,424.65,210,214.65
+1041,2024-09-28,West,Furniture,Filing Cabinet,Aditya Singh,4,6299,0.05,23936.2,14800,9136.2
+1091,2024-09-30,South,Electronics,27-inch Monitor,Priya Nair,7,14999,0,104993,68600,36393
+1166,2024-10-04,North,Electronics,USB-C Hub,Karan Verma,4,1899,0,7596,3800,3796
+1131,2024-10-06,East,Furniture,Standing Desk,Neha Kapoor,1,18999,0.15,16149.15,12500,3649.15
+1171,2024-10-07,North,Electronics,Wireless Mouse,Aarav Sharma,9,799,0.1,6471.9,3780,2691.9
+1122,2024-10-08,South,Furniture,Bookshelf,Priya Nair,12,5499,0.1,59389.2,38400,20989.2
+1244,2024-10-08,North,Electronics,Wireless Mouse,Aarav Sharma,10,799,0.2,6392.0,4200,2192.0
+1286,2024-10-08,South,Office Supplies,A4 Paper Ream (500),Divya Reddy,7,349,0.1,2198.7,1470,728.7
+1159,2024-10-13,North,Clothing,Denim Jacket,Karan Verma,9,2999,0,26991,14850,12141
+1110,2024-10-17,South,Furniture,Filing Cabinet,Divya Reddy,2,6299,0.05,11968.1,7400,4568.1
+1297,2024-10-21,North,Office Supplies,A4 Paper Ream (500),Karan Verma,6,349,0,2094,1260,834
+1200,2024-10-22,West,Office Supplies,Ballpoint Pen Pack,Aditya Singh,9,149,0,1341,630,711
+1061,2024-10-30,North,Electronics,Laptop Stand,Aarav Sharma,10,1299,0,12990,6500,6490
+1180,2024-10-31,West,Clothing,Cotton T-Shirt,Aditya Singh,5,699,0,3495,1600,1895
+1164,2024-11-09,South,Office Supplies,Ballpoint Pen Pack,Divya Reddy,8,149,0.1,1072.8,560,512.8
+1208,2024-11-14,North,Furniture,Filing Cabinet,Aarav Sharma,9,6299,0.15,48187.35,33300,14887.35
+1291,2024-11-16,North,Office Supplies,Ballpoint Pen Pack,Karan Verma,6,149,0,894,420,474
+1227,2024-11-20,East,Office Supplies,Ballpoint Pen Pack,Neha Kapoor,9,149,0,1341,630,711
+1220,2024-11-21,East,Office Supplies,Sticky Notes Pack,Neha Kapoor,12,199,0.15,2029.8,1140,889.8
+1285,2024-11-25,West,Office Supplies,A4 Paper Ream (500),Rohan Mehta,2,349,0,698,420,278
+1137,2024-11-30,West,Furniture,Office Chair,Aditya Singh,5,7999,0.15,33995.75,23000,10995.75
+1126,2024-12-04,East,Furniture,Filing Cabinet,Neha Kapoor,7,6299,0,44093,25900,18193
+1081,2024-12-07,West,Office Supplies,Stapler,Rohan Mehta,11,249,0.1,2465.1,1430,1035.1
+1132,2024-12-10,West,Office Supplies,Ballpoint Pen Pack,Aditya Singh,12,149,0,1788,840,948
+1157,2024-12-10,East,Electronics,Wireless Mouse,Neha Kapoor,6,799,0,4794,2520,2274
+1008,2024-12-14,West,Electronics,USB-C Hub,Rohan Mehta,4,1899,0.1,6836.4,3800,3036.4
+1174,2024-12-14,North,Electronics,27-inch Monitor,Aarav Sharma,5,14999,0.2,59996.0,49000,10996.0
+1198,2024-12-22,South,Furniture,Standing Desk,Divya Reddy,6,18999,0,113994,75000,38994
+1093,2024-12-24,East,Electronics,USB-C Hub,Sneha Iyer,4,1899,0,7596,3800,3796
+1277,2025-01-01,East,Office Supplies,Stapler,Sneha Iyer,10,249,0.1,2241.0,1300,941.0
+1170,2025-01-04,North,Electronics,27-inch Monitor,Karan Verma,1,14999,0,14999,9800,5199
+1101,2025-01-07,South,Furniture,Standing Desk,Priya Nair,11,18999,0.1,188090.1,137500,50590.1
+1264,2025-01-14,West,Office Supplies,Ballpoint Pen Pack,Aditya Singh,10,149,0,1490,700,790
+1019,2025-01-23,East,Electronics,USB-C Hub,Sneha Iyer,11,1899,0.1,18800.1,10450,8350.1
+1015,2025-01-24,East,Electronics,USB-C Hub,Neha Kapoor,11,1899,0.1,18800.1,10450,8350.1
+1242,2025-01-25,South,Office Supplies,A4 Paper Ream (500),Divya Reddy,10,349,0.1,3141.0,2100,1041.0
+1213,2025-01-27,West,Electronics,Laptop Stand,Rohan Mehta,2,1299,0.1,2338.2,1300,1038.2
+1029,2025-01-29,East,Furniture,Standing Desk,Neha Kapoor,9,18999,0.1,153891.9,112500,41391.9
+1221,2025-01-30,West,Office Supplies,Ballpoint Pen Pack,Rohan Mehta,8,149,0,1192,560,632
+1023,2025-02-09,East,Clothing,Denim Jacket,Neha Kapoor,3,2999,0.1,8097.3,4950,3147.3
+1147,2025-02-10,East,Office Supplies,Sticky Notes Pack,Sneha Iyer,2,199,0.05,378.1,190,188.1
+1290,2025-02-12,South,Furniture,Standing Desk,Priya Nair,6,18999,0.15,96894.9,75000,21894.9
+1106,2025-02-19,North,Furniture,Filing Cabinet,Aarav Sharma,5,6299,0.1,28345.5,18500,9845.5
+1184,2025-02-22,East,Furniture,Bookshelf,Neha Kapoor,5,5499,0,27495,16000,11495
+1224,2025-02-23,West,Clothing,Cotton T-Shirt,Rohan Mehta,2,699,0.2,1118.4,640,478.4
+1051,2025-02-24,North,Furniture,Bookshelf,Aarav Sharma,11,5499,0,60489,35200,25289
+1296,2025-02-24,West,Furniture,Office Chair,Aditya Singh,12,7999,0,95988,55200,40788
+1165,2025-03-11,South,Office Supplies,Sticky Notes Pack,Divya Reddy,6,199,0.2,955.2,570,385.2
+1187,2025-03-11,East,Electronics,Mechanical Keyboard,Sneha Iyer,11,2499,0,27489,14850,12639
+1085,2025-03-16,North,Electronics,27-inch Monitor,Aarav Sharma,5,14999,0.1,67495.5,49000,18495.5
+1233,2025-03-17,East,Electronics,27-inch Monitor,Sneha Iyer,9,14999,0.15,114742.35,88200,26542.35
+1152,2025-03-19,East,Furniture,Office Chair,Neha Kapoor,12,7999,0,95988,55200,40788
+1153,2025-03-21,North,Electronics,27-inch Monitor,Karan Verma,10,14999,0.2,119992.0,98000,21992.0
+1099,2025-03-22,South,Office Supplies,A4 Paper Ream (500),Priya Nair,7,349,0.05,2320.85,1470,850.85
+1043,2025-03-24,East,Clothing,Denim Jacket,Neha Kapoor,2,2999,0.05,5698.1,3300,2398.1
+1074,2025-03-24,North,Clothing,Cotton T-Shirt,Karan Verma,10,699,0,6990,3200,3790
+1192,2025-03-24,North,Electronics,Mechanical Keyboard,Aarav Sharma,7,2499,0.1,15743.7,9450,6293.7
+1190,2025-03-25,East,Electronics,Mechanical Keyboard,Neha Kapoor,12,2499,0.1,26989.2,16200,10789.2
+1108,2025-03-28,East,Office Supplies,Ballpoint Pen Pack,Sneha Iyer,9,149,0.2,1072.8,630,442.8
+1055,2025-03-29,South,Office Supplies,Stapler,Priya Nair,1,249,0,249,130,119
+1120,2025-04-05,East,Electronics,USB-C Hub,Sneha Iyer,11,1899,0.1,18800.1,10450,8350.1
+1281,2025-04-07,East,Furniture,Filing Cabinet,Sneha Iyer,10,6299,0,62990,37000,25990
+1287,2025-04-09,West,Furniture,Filing Cabinet,Aditya Singh,2,6299,0,12598,7400,5198
+1201,2025-04-10,South,Electronics,Mechanical Keyboard,Divya Reddy,5,2499,0.1,11245.5,6750,4495.5
+1113,2025-04-11,East,Furniture,Standing Desk,Sneha Iyer,12,18999,0.15,193789.8,150000,43789.8
+1218,2025-04-11,South,Clothing,Denim Jacket,Divya Reddy,4,2999,0.05,11396.2,6600,4796.2
+1070,2025-04-13,South,Furniture,Office Chair,Priya Nair,1,7999,0.2,6399.2,4600,1799.2
+1154,2025-04-21,North,Furniture,Standing Desk,Karan Verma,6,18999,0.05,108294.3,75000,33294.3
+1259,2025-04-27,South,Electronics,Wireless Mouse,Divya Reddy,10,799,0.05,7590.5,4200,3390.5
+1212,2025-04-28,East,Electronics,Laptop Stand,Neha Kapoor,9,1299,0,11691,5850,5841
+1280,2025-05-02,South,Furniture,Bookshelf,Divya Reddy,9,5499,0,49491,28800,20691
+1057,2025-05-12,East,Furniture,Bookshelf,Sneha Iyer,7,5499,0,38493,22400,16093
+1158,2025-05-14,South,Electronics,Laptop Stand,Divya Reddy,5,1299,0.1,5845.5,3250,2595.5
+1037,2025-05-15,South,Electronics,Wireless Mouse,Priya Nair,6,799,0.1,4314.6,2520,1794.6
+1161,2025-05-15,East,Furniture,Filing Cabinet,Sneha Iyer,12,6299,0.2,60470.4,44400,16070.4
+1284,2025-05-17,East,Office Supplies,Sticky Notes Pack,Neha Kapoor,2,199,0,398,190,208
+1114,2025-05-21,East,Furniture,Standing Desk,Sneha Iyer,3,18999,0,56997,37500,19497
+1236,2025-05-24,West,Clothing,Denim Jacket,Rohan Mehta,4,2999,0.2,9596.8,6600,2996.8
+1063,2025-05-29,West,Clothing,Denim Jacket,Rohan Mehta,1,2999,0,2999,1650,1349
+1005,2025-06-01,North,Office Supplies,A4 Paper Ream (500),Aarav Sharma,9,349,0.05,2983.95,1890,1093.95
+1079,2025-06-01,North,Furniture,Bookshelf,Karan Verma,1,5499,0,5499,3200,2299
+1072,2025-06-02,West,Electronics,USB-C Hub,Rohan Mehta,6,1899,0,11394,5700,5694
+1034,2025-06-03,South,Clothing,Denim Jacket,Priya Nair,11,2999,0.1,29690.1,18150,11540.1
+1103,2025-06-03,West,Electronics,USB-C Hub,Aditya Singh,6,1899,0.15,9684.9,5700,3984.9
+1211,2025-06-05,North,Office Supplies,Sticky Notes Pack,Karan Verma,7,199,0.2,1114.4,665,449.4
+1047,2025-06-10,North,Electronics,Laptop Stand,Karan Verma,11,1299,0.2,11431.2,7150,4281.2
+1160,2025-06-13,South,Electronics,Laptop Stand,Priya Nair,4,1299,0.15,4416.6,2600,1816.6
+1252,2025-06-27,North,Furniture,Filing Cabinet,Karan Verma,3,6299,0.1,17007.3,11100,5907.3
+1018,2025-06-30,East,Office Supplies,Sticky Notes Pack,Sneha Iyer,3,199,0.2,477.6,285,192.6
+1011,2025-07-03,West,Electronics,Mechanical Keyboard,Aditya Singh,2,2499,0.1,4498.2,2700,1798.2
+1257,2025-07-03,East,Electronics,Mechanical Keyboard,Neha Kapoor,6,2499,0.1,13494.6,8100,5394.6
+1130,2025-07-05,East,Office Supplies,Sticky Notes Pack,Sneha Iyer,8,199,0.05,1512.4,760,752.4
+1217,2025-07-05,South,Furniture,Bookshelf,Divya Reddy,6,5499,0.15,28044.9,19200,8844.9
+1084,2025-07-12,South,Electronics,Wireless Mouse,Divya Reddy,10,799,0,7990,4200,3790
+1206,2025-07-16,North,Electronics,27-inch Monitor,Karan Verma,8,14999,0.2,95993.6,78400,17593.6
+1030,2025-07-20,North,Clothing,Cotton T-Shirt,Aarav Sharma,11,699,0,7689,3520,4169
+1083,2025-07-28,South,Electronics,Wireless Mouse,Priya Nair,2,799,0,1598,840,758
+1143,2025-07-31,East,Electronics,Laptop Stand,Neha Kapoor,12,1299,0.1,14029.2,7800,6229.2
+1234,2025-08-02,West,Office Supplies,Ballpoint Pen Pack,Rohan Mehta,3,149,0,447,210,237
+1219,2025-08-08,East,Furniture,Standing Desk,Sneha Iyer,7,18999,0,132993,87500,45493
+1173,2025-08-10,East,Electronics,USB-C Hub,Neha Kapoor,8,1899,0.2,12153.6,7600,4553.6
+1195,2025-08-13,West,Electronics,Wireless Mouse,Rohan Mehta,8,799,0.2,5113.6,3360,1753.6
+1298,2025-08-14,East,Furniture,Filing Cabinet,Sneha Iyer,3,6299,0.2,15117.6,11100,4017.6
+1146,2025-08-15,North,Electronics,Wireless Mouse,Karan Verma,10,799,0.15,6791.5,4200,2591.5
+1258,2025-08-21,South,Furniture,Standing Desk,Divya Reddy,2,18999,0.05,36098.1,25000,11098.1
+1273,2025-08-23,East,Electronics,Laptop Stand,Sneha Iyer,6,1299,0,7794,3900,3894
+1295,2025-08-23,South,Furniture,Filing Cabinet,Divya Reddy,11,6299,0,69289,40700,28589
+1045,2025-08-25,North,Electronics,Laptop Stand,Aarav Sharma,2,1299,0,2598,1300,1298
+1007,2025-08-26,North,Electronics,USB-C Hub,Aarav Sharma,3,1899,0.15,4842.45,2850,1992.45
+1193,2025-09-10,North,Electronics,USB-C Hub,Aarav Sharma,2,1899,0.05,3608.1,1900,1708.1
+1078,2025-09-11,South,Electronics,Laptop Stand,Divya Reddy,4,1299,0.1,4676.4,2600,2076.4
+1181,2025-09-16,South,Office Supplies,Sticky Notes Pack,Priya Nair,4,199,0.05,756.2,380,376.2
+1228,2025-09-24,East,Electronics,Mechanical Keyboard,Sneha Iyer,11,2499,0.1,24740.1,14850,9890.1
+1067,2025-09-26,West,Electronics,Mechanical Keyboard,Aditya Singh,11,2499,0.1,24740.1,14850,9890.1
+1088,2025-09-27,West,Office Supplies,Sticky Notes Pack,Rohan Mehta,4,199,0,796,380,416
+1071,2025-09-28,South,Office Supplies,A4 Paper Ream (500),Priya Nair,2,349,0.05,663.1,420,243.1
+1102,2025-09-30,South,Furniture,Office Chair,Priya Nair,12,7999,0.1,86389.2,55200,31189.2
+1205,2025-10-02,North,Furniture,Bookshelf,Aarav Sharma,4,5499,0.1,19796.4,12800,6996.4
+1080,2025-10-11,North,Furniture,Standing Desk,Karan Verma,1,18999,0,18999,12500,6499
+1197,2025-10-12,East,Clothing,Cotton T-Shirt,Neha Kapoor,2,699,0.2,1118.4,640,478.4
+1237,2025-10-15,East,Electronics,USB-C Hub,Neha Kapoor,5,1899,0,9495,4750,4745
+1001,2025-10-16,North,Electronics,Mechanical Keyboard,Aarav Sharma,12,2499,0.1,26989.2,16200,10789.2
+1240,2025-10-16,North,Furniture,Standing Desk,Karan Verma,8,18999,0.1,136792.8,100000,36792.8
+1271,2025-10-19,North,Office Supplies,Ballpoint Pen Pack,Aarav Sharma,1,149,0.1,134.1,70,64.1
+1162,2025-10-23,East,Office Supplies,Sticky Notes Pack,Neha Kapoor,8,199,0,1592,760,832
+1210,2025-10-25,West,Clothing,Cotton T-Shirt,Rohan Mehta,8,699,0.1,5032.8,2560,2472.8
+1260,2025-10-25,East,Electronics,Mechanical Keyboard,Neha Kapoor,12,2499,0.1,26989.2,16200,10789.2
+1261,2025-10-26,South,Furniture,Standing Desk,Priya Nair,3,18999,0,56997,37500,19497
+1140,2025-10-27,North,Electronics,Mechanical Keyboard,Aarav Sharma,1,2499,0.05,2374.05,1350,1024.05
+1226,2025-10-27,South,Electronics,Mechanical Keyboard,Divya Reddy,11,2499,0.15,23365.65,14850,8515.65
+1203,2025-11-04,East,Clothing,Cotton T-Shirt,Neha Kapoor,7,699,0,4893,2240,2653
+1094,2025-11-06,West,Electronics,Laptop Stand,Aditya Singh,6,1299,0.1,7014.6,3900,3114.6
+1276,2025-11-07,North,Clothing,Cotton T-Shirt,Aarav Sharma,3,699,0,2097,960,1137
+1150,2025-11-08,South,Furniture,Office Chair,Priya Nair,9,7999,0.1,64791.9,41400,23391.9
+1105,2025-11-11,West,Furniture,Standing Desk,Rohan Mehta,10,18999,0.1,170991.0,125000,45991.0
+1075,2025-11-14,North,Clothing,Cotton T-Shirt,Karan Verma,11,699,0,7689,3520,4169
+1111,2025-11-19,East,Electronics,USB-C Hub,Sneha Iyer,4,1899,0,7596,3800,3796
+1194,2025-11-21,North,Clothing,Cotton T-Shirt,Aarav Sharma,11,699,0.1,6920.1,3520,3400.1
+1065,2025-11-22,East,Clothing,Cotton T-Shirt,Sneha Iyer,7,699,0,4893,2240,2653
+1003,2025-11-23,South,Office Supplies,Sticky Notes Pack,Priya Nair,10,199,0.15,1691.5,950,741.5
+1247,2025-11-25,West,Office Supplies,Stapler,Rohan Mehta,11,249,0,2739,1430,1309
+1096,2025-11-26,South,Clothing,Cotton T-Shirt,Divya Reddy,1,699,0,699,320,379
+1031,2025-11-29,North,Clothing,Denim Jacket,Karan Verma,11,2999,0.1,29690.1,18150,11540.1
+1087,2025-11-29,South,Electronics,Laptop Stand,Priya Nair,6,1299,0.15,6624.9,3900,2724.9
+1292,2025-12-04,East,Clothing,Denim Jacket,Neha Kapoor,2,2999,0,5998,3300,2698
+1231,2025-12-11,North,Electronics,USB-C Hub,Aarav Sharma,1,1899,0.1,1709.1,950,759.1
+1060,2025-12-14,East,Office Supplies,Sticky Notes Pack,Neha Kapoor,3,199,0.05,567.15,285,282.15
+1104,2025-12-14,West,Electronics,USB-C Hub,Rohan Mehta,4,1899,0.15,6456.6,3800,2656.6
+1172,2025-12-15,East,Electronics,27-inch Monitor,Neha Kapoor,2,14999,0,29998,19600,10398
+1191,2025-12-17,North,Furniture,Standing Desk,Karan Verma,9,18999,0.2,136792.8,112500,24292.8
+1243,2025-12-17,North,Electronics,USB-C Hub,Aarav Sharma,11,1899,0.15,17755.65,10450,7305.65
+1017,2025-12-19,South,Clothing,Denim Jacket,Priya Nair,10,2999,0,29990,16500,13490
+1013,2025-12-22,North,Electronics,Mechanical Keyboard,Aarav Sharma,11,2499,0.05,26114.55,14850,11264.55
+1125,2025-12-24,South,Electronics,Laptop Stand,Priya Nair,7,1299,0.15,7729.05,4550,3179.05
+1042,2025-12-31,West,Electronics,USB-C Hub,Aditya Singh,11,1899,0.1,18800.1,10450,8350.1
+1006,2026-01-03,West,Office Supplies,Ballpoint Pen Pack,Aditya Singh,4,149,0.2,476.8,280,196.8
+1167,2026-01-08,South,Electronics,Laptop Stand,Divya Reddy,2,1299,0,2598,1300,1298
+1282,2026-01-14,North,Office Supplies,Stapler,Karan Verma,8,249,0,1992,1040,952
+1279,2026-01-29,South,Furniture,Standing Desk,Priya Nair,12,18999,0,227988,150000,77988
+1294,2026-02-01,South,Office Supplies,Sticky Notes Pack,Divya Reddy,3,199,0,597,285,312
+1062,2026-02-04,North,Furniture,Office Chair,Aarav Sharma,1,7999,0.2,6399.2,4600,1799.2
+1139,2026-02-06,North,Furniture,Filing Cabinet,Aarav Sharma,6,6299,0.05,35904.3,22200,13704.3
+1255,2026-02-11,West,Electronics,Laptop Stand,Aditya Singh,9,1299,0.1,10521.9,5850,4671.9
+1230,2026-02-17,South,Office Supplies,Ballpoint Pen Pack,Priya Nair,8,149,0,1192,560,632
+1036,2026-02-19,North,Electronics,27-inch Monitor,Aarav Sharma,10,14999,0.1,134991.0,98000,36991.0
+1121,2026-02-23,East,Office Supplies,Stapler,Neha Kapoor,11,249,0.05,2602.05,1430,1172.05
+1144,2026-02-24,West,Furniture,Office Chair,Rohan Mehta,10,7999,0,79990,46000,33990
+1014,2026-03-02,South,Electronics,USB-C Hub,Priya Nair,4,1899,0,7596,3800,3796
+1214,2026-03-02,West,Office Supplies,Stapler,Aditya Singh,6,249,0.1,1344.6,780,564.6
+1179,2026-03-05,West,Furniture,Filing Cabinet,Aditya Singh,8,6299,0.2,40313.6,29600,10713.6
+1145,2026-03-07,West,Clothing,Cotton T-Shirt,Rohan Mehta,5,699,0,3495,1600,1895
+1225,2026-03-11,South,Electronics,USB-C Hub,Divya Reddy,10,1899,0.15,16141.5,9500,6641.5
+1274,2026-03-18,North,Clothing,Denim Jacket,Aarav Sharma,5,2999,0,14995,8250,6745
+1028,2026-03-22,West,Office Supplies,Ballpoint Pen Pack,Aditya Singh,10,149,0,1490,700,790
+1109,2026-03-23,West,Clothing,Denim Jacket,Rohan Mehta,11,2999,0,32989,18150,14839
+1149,2026-03-26,North,Office Supplies,A4 Paper Ream (500),Aarav Sharma,6,349,0.15,1779.9,1260,519.9
+1232,2026-03-26,North,Electronics,Wireless Mouse,Karan Verma,6,799,0.1,4314.6,2520,1794.6
+1089,2026-03-30,West,Office Supplies,Stapler,Rohan Mehta,7,249,0,1743,910,833
+1118,2026-03-31,South,Furniture,Bookshelf,Divya Reddy,8,5499,0.15,37393.2,25600,11793.2
+1254,2026-04-03,East,Electronics,Mechanical Keyboard,Neha Kapoor,2,2499,0,4998,2700,2298
+1021,2026-04-04,West,Furniture,Office Chair,Aditya Singh,5,7999,0,39995,23000,16995
+1177,2026-04-10,North,Office Supplies,A4 Paper Ream (500),Karan Verma,2,349,0.05,663.1,420,243.1
+1215,2026-04-20,North,Electronics,Wireless Mouse,Karan Verma,12,799,0.1,8629.2,5040,3589.2
+1012,2026-04-29,South,Office Supplies,Ballpoint Pen Pack,Divya Reddy,10,149,0.05,1415.5,700,715.5
+1119,2026-04-30,East,Clothing,Denim Jacket,Neha Kapoor,3,2999,0.2,7197.6,4950,2247.6
+1155,2026-04-30,South,Clothing,Denim Jacket,Priya Nair,5,2999,0.2,11996.0,8250,3746.0
+1293,2026-05-01,South,Electronics,Mechanical Keyboard,Priya Nair,7,2499,0,17493,9450,8043
+1245,2026-05-02,North,Clothing,Denim Jacket,Karan Verma,4,2999,0.1,10796.4,6600,4196.4
+1216,2026-05-07,East,Office Supplies,A4 Paper Ream (500),Neha Kapoor,3,349,0.2,837.6,630,207.6
+1133,2026-05-10,West,Furniture,Bookshelf,Rohan Mehta,10,5499,0,54990,32000,22990
+1035,2026-05-11,East,Office Supplies,Ballpoint Pen Pack,Sneha Iyer,3,149,0.1,402.3,210,192.3
+1020,2026-05-13,North,Office Supplies,Stapler,Aarav Sharma,4,249,0,996,520,476
+1010,2026-05-17,North,Furniture,Office Chair,Karan Verma,1,7999,0.2,6399.2,4600,1799.2
+1064,2026-05-21,South,Electronics,27-inch Monitor,Priya Nair,10,14999,0,149990,98000,51990
+1288,2026-05-23,East,Office Supplies,Ballpoint Pen Pack,Sneha Iyer,7,149,0.2,834.4,490,344.4
+1128,2026-05-27,West,Clothing,Denim Jacket,Aditya Singh,8,2999,0,23992,13200,10792
+1199,2026-05-28,South,Electronics,27-inch Monitor,Divya Reddy,7,14999,0.2,83994.4,68600,15394.4
+1092,2026-05-29,East,Furniture,Bookshelf,Sneha Iyer,4,5499,0.2,17596.8,12800,4796.8
+1027,2026-05-31,West,Electronics,Mechanical Keyboard,Rohan Mehta,11,2499,0,27489,14850,12639
+1095,2026-06-04,North,Electronics,Mechanical Keyboard,Karan Verma,6,2499,0.15,12744.9,8100,4644.9
+1097,2026-06-17,West,Electronics,USB-C Hub,Rohan Mehta,10,1899,0.1,17091.0,9500,7591.0
+1073,2026-06-19,South,Electronics,Laptop Stand,Divya Reddy,5,1299,0,6495,3250,3245
+1265,2026-06-25,South,Furniture,Standing Desk,Priya Nair,8,18999,0.15,129193.2,100000,29193.2
+1289,2026-06-28,West,Electronics,Laptop Stand,Aditya Singh,6,1299,0.2,6235.2,3900,2335.2
+1077,2026-06-30,West,Electronics,Mechanical Keyboard,Rohan Mehta,5,2499,0.1,11245.5,6750,4495.5
+1115,2026-07-03,South,Office Supplies,Stapler,Priya Nair,7,249,0.05,1655.85,910,745.85
+1025,2026-07-08,West,Office Supplies,A4 Paper Ream (500),Aditya Singh,6,349,0.05,1989.3,1260,729.3
+1086,2026-07-09,North,Clothing,Denim Jacket,Aarav Sharma,6,2999,0.05,17094.3,9900,7194.3
+1238,2026-07-09,East,Office Supplies,Stapler,Neha Kapoor,5,249,0,1245,650,595
+1248,2026-07-14,North,Office Supplies,Ballpoint Pen Pack,Aarav Sharma,5,149,0.2,596.0,350,246.0
+1134,2026-07-17,North,Furniture,Standing Desk,Aarav Sharma,2,18999,0.15,32298.3,25000,7298.3
+1188,2026-07-19,West,Electronics,USB-C Hub,Rohan Mehta,2,1899,0,3798,1900,1898
+1253,2026-07-24,East,Clothing,Cotton T-Shirt,Neha Kapoor,5,699,0.1,3145.5,1600,1545.5
+1196,2026-07-27,West,Electronics,USB-C Hub,Rohan Mehta,10,1899,0.15,16141.5,9500,6641.5
+1117,2026-07-28,South,Clothing,Cotton T-Shirt,Priya Nair,8,699,0,5592,2560,3032
+1059,2026-08-06,East,Office Supplies,Stapler,Neha Kapoor,5,249,0.15,1058.25,650,408.25
+1068,2026-08-15,East,Electronics,USB-C Hub,Sneha Iyer,11,1899,0.1,18800.1,10450,8350.1
+1076,2026-08-19,West,Clothing,Denim Jacket,Rohan Mehta,5,2999,0,14995,8250,6745
+1266,2026-08-19,North,Electronics,USB-C Hub,Aarav Sharma,12,1899,0.1,20509.2,11400,9109.2
+1066,2026-08-22,East,Clothing,Denim Jacket,Sneha Iyer,10,2999,0,29990,16500,13490
+1129,2026-08-23,North,Furniture,Office Chair,Karan Verma,7,7999,0.15,47594.05,32200,15394.05
+1262,2026-08-26,North,Electronics,Wireless Mouse,Karan Verma,8,799,0,6392,3360,3032
+1270,2026-08-29,East,Clothing,Cotton T-Shirt,Neha Kapoor,2,699,0.05,1328.1,640,688.1
